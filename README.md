@@ -1,4 +1,4 @@
-# Password Strength & Hash Tool 🛡️
+# Password Strength & Hash Tool 
 
 A simple Python tool to **assess the strength of passwords** and **generate a secure SHA-256 hash**. It checks password length, uppercase and lowercase letters, numbers, and special characters, giving actionable feedback to improve weak passwords.
 
